@@ -18,6 +18,12 @@ This approach allows building complex gameplay features that remain maintainable
 
 ---
 
+## 🚀 Experience
+- 🎮 Worked on AAA-scale Unreal Engine systems  
+- 🌐 Developed systems for live FiveM servers (100+ players)  
+
+---
+
 ## 🚀 Overview
 
 This repository showcases **selected systems and architectures** I have designed and developed across:
