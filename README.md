@@ -106,6 +106,15 @@ This repository showcases **selected systems and architectures** I have designed
 
 ---
 
+## 🧠 What I Build
+- 🎮 Unreal Engine gameplay systems  
+- ⚙️ Scalable FiveM architectures  
+- 🤖 AI-driven gameplay systems  
+- 🚗 Vehicle & physics systems  
+- 🧩 Modular system frameworks  
+
+---
+
 ## 🔒 Note
 
 All systems shown here are part of **private production projects**.
