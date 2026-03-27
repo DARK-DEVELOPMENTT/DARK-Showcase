@@ -4,6 +4,19 @@
 > 🧠 Advanced Game Systems Architect (Unreal Engine + FiveM)
 
 ---
+## ⚡ System Design Approach
+
+I design systems using a **modular and scalable architecture**, inspired by modern game engines like Unreal Engine.
+
+Core principles:
+- 🧠 System-driven design (not script-based)
+- ⚙️ Modular structure (plug & play systems)
+- ⚡ Performance-first implementation
+- 🔗 Clean separation between systems
+
+This approach allows building complex gameplay features that remain maintainable and scalable.
+
+---
 
 ## 🚀 Overview
 
